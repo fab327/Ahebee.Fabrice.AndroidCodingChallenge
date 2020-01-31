@@ -8,12 +8,12 @@ WHAT would i have done:
 Network connectivity with alertDialog if no internet access
 
 - 8 hrs:
-Leverage cardviews instead of regular listItem view style
+Adding unit/ui tests
 Error handling
 
 - Multiple days:
 Dependency injection
-Better design
+Better design (Leverage cardviews instead of regular listItem view style)
 Splash screen
 Any relevant animation I could think about
 Handling of onClick listener to open a detail acitivy
